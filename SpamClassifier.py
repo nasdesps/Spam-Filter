@@ -33,6 +33,6 @@ if spam_probability > ham_probability:
     print ('Your mail has been classified as SPAM.')
     print (spam_probability)
 else:
-   print ('Your mail has been classified as HAM.')
+   print ('Your mail has been classified as Not-Spam.')
    print (ham_probability)
 print ('')
